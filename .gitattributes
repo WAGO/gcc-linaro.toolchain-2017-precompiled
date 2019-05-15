@@ -1,0 +1,4 @@
+arm-linux-gnueabihf/libexec/gcc/arm-linux-gnueabihf/5.5.0/f951 filter=lfs diff=lfs merge=lfs -text
+arm-linux-gnueabihf/libexec/gcc/arm-linux-gnueabihf/5.5.0/lto1 filter=lfs diff=lfs merge=lfs -text
+arm-linux-gnueabihf/libexec/gcc/arm-linux-gnueabihf/5.5.0/cc1 filter=lfs diff=lfs merge=lfs -text
+arm-linux-gnueabihf/libexec/gcc/arm-linux-gnueabihf/5.5.0/cc1plus filter=lfs diff=lfs merge=lfs -text
